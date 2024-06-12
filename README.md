@@ -1,4 +1,4 @@
-# ICD2O Assign-05B-HTML-FibonacciFrenzy
+# ICD2O Assign-05-HTML-FibonacciFrenzy
 
 [![Mr Coxall's Super Linter](README.md/../../../workflows/Super%20Linter/badge.svg)](README.md/../../../actions)
 

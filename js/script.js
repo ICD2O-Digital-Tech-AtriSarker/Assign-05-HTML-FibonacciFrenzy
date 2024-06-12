@@ -1,4 +1,7 @@
-// Script for Fibonacci Frenzy
+/* Created by: Atri Sarker
+* Created on: June 2024
+* This file contains the js script for Assign-05-FibbonacciFrenzy
+*/
 
 // Get Elements
 const termCountInput = document.getElementById("termCountInput");
