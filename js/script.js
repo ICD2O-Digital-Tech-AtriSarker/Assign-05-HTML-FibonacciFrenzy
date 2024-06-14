@@ -58,10 +58,10 @@ function getResult() {
   // Loop
   for (let currentTerm = 3; currentTerm <= termCount; currentTerm++) {
 
-    // Get Current Term
+    // Get Current Term's Value
     let currentValue = evaluateFunction(termBehind2, termBehind1);
 
-    // Display Current Term
+    // Display Current Term's Value
     outputResult.innerHTML += currentValue + "<br>";
 
     // Update Variables
