@@ -2,6 +2,7 @@
 * Created on: June 2024
 * This file contains the js script for Assign-05-FibbonacciFrenzy
 */
+"use strict"
 
 // Get Elements
 const termCountInput = document.getElementById("termCountInput");
